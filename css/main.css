@@ -1,0 +1,25 @@
+* {
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    /*background-color: black;*/
+    /*color: blanchedalmond;*/
+}
+
+.header_top {
+    width: 100%;
+    /*display: flex;*/
+    justify-content: end;
+}
+.textcountry {
+    /*background:none;*/
+    display:flex;
+    flex-direction: row;
+}
+
+.country_link {
+    width: 30px;
+    height: 15px;
+}
